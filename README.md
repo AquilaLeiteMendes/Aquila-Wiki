@@ -18,6 +18,9 @@ O projeto busca transformar pesquisas e processos editoriais em estruturas **reu
 - Preservar a rastreabilidade das informações.
 - Facilitar a manutenção e expansão dos projetos.
 
+## Licença
+- A licença MIT aplica-se ao código original do repositório, salvo indicação em contrário. Conteúdos de terceiros, fontes, imagens e materiais provenientes de projetos Wikimedia permanecem sujeitos às respectivas licenças e condições de uso.
+
 ## Estrutura
 
 ```text
