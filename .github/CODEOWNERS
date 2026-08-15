@@ -1,1 +1,31 @@
+# ============================================================
+# Aquila-Wiki — CODEOWNERS
+# ============================================================
 
+# Regra geral
+* @AquilaLeiteMendes
+
+# Documentação e governança
+/README.md @AquilaLeiteMendes
+/CONTRIBUTING.md @AquilaLeiteMendes
+
+# Projetos Wikimedia
+/Wikipedia/ @AquilaLeiteMendes
+/Wikidata/ @AquilaLeiteMendes
+/Wikimedia-Commons/ @AquilaLeiteMendes
+
+# Pesquisas e fontes
+/Pesquisas/ @AquilaLeiteMendes
+/Fontes/ @AquilaLeiteMendes
+
+# Scripts e automações
+/Scripts/ @AquilaLeiteMendes
+
+# Configurações do GitHub
+/.github/ @AquilaLeiteMendes
+/.github/workflows/ @AquilaLeiteMendes
+
+# Configurações globais
+/_config.yml @AquilaLeiteMendes
+/_layouts/ @AquilaLeiteMendes
+/_includes/ @AquilaLeiteMendes
